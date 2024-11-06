@@ -22,4 +22,4 @@ Here are some projects I'm proud of:
 Feel free to explore these projects and others on my [GitHub profile](https://github.com/TateWilson1).
 
 ## 🌐 Visit My Website
-For more details about me, my work, and how to get in touch, visit my [personal website](https://TateWilson1.github.io).
+For more details about me, my work, and how to get in touch, visit my [personal website](https://TateWilson1.github.io/Portfolio).
