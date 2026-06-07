@@ -1,37 +1,34 @@
-# Hi, I'm Tate Wilson
+# Tate Wilson
 
-I am a Digital Forensics and Cybersecurity student at Eastern Kentucky University, expected to graduate in December 2026. My work focuses on practical security operations, incident response readiness, GRC documentation, vulnerability assessment, access control, and digital forensics.
+Digital Forensics and Cybersecurity student at Eastern Kentucky University, focused on defensive security, incident response readiness, vulnerability assessment, identity review, and GRC documentation.
 
-## Featured Portfolio
+I like projects that turn security work into something practical: a tabletop exercise someone can run, a scanner that explains system posture, or a risk assessment that helps a team decide what to fix first.
 
-My main portfolio and case studies are here:
+## Featured Work
 
-**Portfolio:** https://tatewilson1.github.io/
+- [TabletopForge](https://github.com/TateWilson1/TabletopForge) - Incident response tabletop exercise generator for small businesses, MSPs, IT teams, and cybersecurity students.
+- [GRC Risk Assessment](https://github.com/TateWilson1/GRC-Governance-Risk-and-Compliance-) - Structured governance, risk, and compliance documentation with finding analysis and remediation language.
+- [Vulnerability Scanner](https://github.com/TateWilson1/Vulnerability_Scanner) - Python-based Windows posture scanner for ports, updates, services, and firewall checks.
+- [Password Strength GUI](https://github.com/TateWilson1/testing_password_strength_with_GUI) - Tkinter password checker with real-time scoring and user guidance.
+- [Security Toolkit](https://github.com/TateWilson1/Security-Toolkit) - Consolidated home for small defensive scripts, review notes, and assessment helpers.
+- [Portfolio](https://github.com/TateWilson1/TateWilson1.github.io) - Cybersecurity-focused portfolio and project case studies.
 
 ## Current Focus
 
-- Cybersecurity operations and MSP client support
-- Microsoft 365 and Entra security review
-- Incident response readiness and tabletop exercises
-- Governance, risk, and compliance documentation
-- Windows Server, Active Directory, Linux, and Proxmox lab practice
+- Expanding TabletopForge into a stronger incident response readiness tool.
+- Practicing CCDC-style service defense, persistence detection, and incident documentation.
+- Building Microsoft 365 and Entra ID review habits around access, enterprise apps, stale accounts, and tenant posture.
+- Writing clearer GRC artifacts that connect technical findings to business risk and remediation planning.
 
-## Experience Highlights
+## Background
 
-- Cybersecurity Intern at Pelycon Technologies, supporting MSP security and IT operations
-- President and Team Captain of EKU Collegiate Cyber Defense Competition
-- Contributed to a 1st-place Kentucky CCDC finish
-- Locksmith Apprentice supporting campus physical security and key control operations
-- Resident Advisor supporting incident response, documentation, and access systems for student housing
+- BS in Digital Forensics and Cybersecurity, Eastern Kentucky University, expected December 2026.
+- CCDC team captain and president, including a 1st-place Kentucky finish.
+- Cybersecurity internship experience with MSP work, Microsoft 365 administration, endpoint security, RMM workflows, and cyber maturity deliverables.
+- Certifications: ISC2 Certified in Cybersecurity and CompTIA Security+.
 
-## Selected Projects
+## Links
 
-- **TabletopForge:** Incident response tabletop exercise generator for readiness planning
-- **GRC Risk Assessment:** Structured risk assessment and compliance-focused documentation project
-- **Windows Vulnerability Scanner:** Python scanner for ports, Windows updates, services, and firewall posture
-- **Password Strength GUI:** Tkinter tool for password scoring and visual user feedback
-
-## Skills
-
-Vulnerability Assessment | Incident Response | Digital Forensics | System Hardening | Security Monitoring | Windows Server | Active Directory | Linux Administration | Microsoft 365 | Access Control | GRC Documentation
-
+- Portfolio: https://tatewilson1.github.io/
+- LinkedIn: https://www.linkedin.com/in/tate-wilson-649004320/
+- Email: tate.wilson2022@gmail.com
