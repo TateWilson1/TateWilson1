@@ -2,19 +2,20 @@
 
 Digital Forensics and Cybersecurity student at Eastern Kentucky University, focused on defensive security, incident response readiness, vulnerability assessment, identity review, and GRC documentation.
 
-I like projects that turn security work into something practical: a tabletop exercise someone can run, a scanner that explains system posture, or a risk assessment that helps a team decide what to fix first.
+I am seeking cybersecurity internship or entry-level opportunities in SOC, GRC, digital forensics, vulnerability management, identity, or security operations. I like projects that turn security work into something practical: a tabletop exercise someone can run, a scanner that explains system posture, or a risk assessment that helps a team decide what to fix first.
 
 ## Featured Work
 
 - [TabletopForge](https://github.com/TateWilson1/TabletopForge) - Incident response tabletop exercise generator for small businesses, MSPs, IT teams, and cybersecurity students.
-- [GRC Risk Assessment](https://github.com/TateWilson1/GRC-Governance-Risk-and-Compliance-) - Structured governance, risk, and compliance documentation with finding analysis and remediation language.
+- [Security Toolkit](https://github.com/TateWilson1/Security-Toolkit) - Defensive scripts, access review checklists, hardening notes, risk templates, and incident note structure.
+- [GRC Risk Assessment](https://github.com/TateWilson1/GRC-Governance-Risk-and-Compliance-) - Structured governance, risk, and compliance documentation with risk register, executive summary, and control mapping.
 - [Vulnerability Scanner](https://github.com/TateWilson1/Vulnerability_Scanner) - Python-based Windows posture scanner for ports, updates, services, and firewall checks.
 - [Password Strength GUI](https://github.com/TateWilson1/testing_password_strength_with_GUI) - Tkinter password checker with real-time scoring and user guidance.
-- [Security Toolkit](https://github.com/TateWilson1/Security-Toolkit) - Consolidated home for small defensive scripts, review notes, and assessment helpers.
-- [Portfolio](https://github.com/TateWilson1/TateWilson1.github.io) - Cybersecurity-focused portfolio and project case studies.
+- [Portfolio](https://github.com/TateWilson1/TateWilson1.github.io) - Cybersecurity-focused portfolio, write-ups, case studies, and resume.
 
 ## Current Focus
 
+- Studying for Microsoft SC-300 to strengthen identity and access administration knowledge.
 - Expanding TabletopForge into a stronger incident response readiness tool.
 - Practicing CCDC-style service defense, persistence detection, and incident documentation.
 - Building Microsoft 365 and Entra ID review habits around access, enterprise apps, stale accounts, and tenant posture.
